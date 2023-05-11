@@ -15,7 +15,7 @@ Songs that are not allowed to be used in Geometry Dash will not be available her
 If your song is here and you want it removed, please contact supersonicogamesofficial@gmail.com
 
 <a href="url"><img src="https://github.com/SebasMCYT/gdl/assets/126848249/59b1f9bd-7523-424a-8ea4-97d3a9364370" align="left" height="48" width="48" >
-## Credits
+## Notes & Credits
 ### Song & Github credits
 Each song has its respective credits in its file and in-game. The files are inside [the songs folder.](https://github.com/SebasMCYT/gdl/tree/main/songs)
 
