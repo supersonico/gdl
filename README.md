@@ -19,14 +19,14 @@ If your song is here and you want it removed, please contact supersonicogamesoff
 ### Song & Github credits
 Each song has its respective credits in its file. The files are inside [the songs folder.](https://github.com/SebasMCYT/gdl/tree/main/songs)
 
-Icons used in this README were taken from the [original game.](store.steampowered.com/app/322170/Geometry_Dash)
+Icons used in this README were taken from the [original game.](https://store.steampowered.com/app/322170/Geometry_Dash)
   
 ### Game credits
 Developed by [supersonicoGames](https://github.com/SebasMCYT)
 
 Original game made by [RobTop Games](https://robtopgames.com)
   
-Most of the textures and sounds were taken from the [original game.](store.steampowered.com/app/322170/Geometry_Dash)
+Most of the textures and sounds were taken from the [original game.](https://store.steampowered.com/app/322170/Geometry_Dash)
 
 Songs used in the base game were made by [Waterflame](https://www.youtube.com/@WaterflameMusic) and [Dunderpatrullen](https://www.youtube.com/channel/UC52orkO0DOHDVo_jT2o3EAg).
 
