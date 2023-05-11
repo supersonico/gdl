@@ -2,7 +2,7 @@
 <a href="url"><img src="https://github.com/SebasMCYT/gdl/assets/126848249/4514e1f7-b553-4f20-8e10-101eb715fb8f" align="left" height="48" width="48" >
 ## Geometry Dashlands
 [Geometry Dashlands](https://gamejolt.com/games/gdl/785147) is a Geometry Dash fan-game made in Scratch (TurboWarp), with +200 objects, 5 game modes, level editor and more.
-***This github repository does not have the game files, it is used to store shared player levels information and songs.***
+***This github repository does not have the game files, it is used to store shared player levels information and songs for the game to load them.***
   
 <a href="url"><img src="https://github.com/SebasMCYT/gdl/assets/126848249/0f699004-d2e4-4a54-b1e7-23da4f363cd2" height="240" width="320" ></a>
 <a href="url"><img src="https://github.com/SebasMCYT/gdl/assets/126848249/e72c451b-0c70-471a-8ac9-37d0126b6b49" height="240" width="320" ></a>
